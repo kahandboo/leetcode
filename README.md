@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kahandboo/leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/kahandboo/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/kahandboo/leetcode/tree/master/0268-missing-number) |
+| [1603-running-sum-of-1d-array](https://github.com/kahandboo/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kahandboo/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1603-running-sum-of-1d-array](https://github.com/kahandboo/leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
