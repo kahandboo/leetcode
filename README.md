@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kahandboo/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kahandboo/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kahandboo/leetcode/tree/master/0268-missing-number) |
+| [0728-self-dividing-numbers](https://github.com/kahandboo/leetcode/tree/master/0728-self-dividing-numbers) |
 ## Recursion
 |  |
 | ------- |
