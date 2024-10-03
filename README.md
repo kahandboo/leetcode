@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kahandboo/leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/kahandboo/leetcode/tree/master/0344-reverse-string) |
 ## Linked List
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kahandboo/leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/kahandboo/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Queue
 |  |
