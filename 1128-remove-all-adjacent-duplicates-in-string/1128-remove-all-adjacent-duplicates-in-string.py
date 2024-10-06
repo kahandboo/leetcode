@@ -4,7 +4,7 @@ class Solution:
 
         for i in s:
             if stack and stack[-1] == i:
-                del stack[-1]
+                stack.pop()
             else:
                 stack.append(i)
 
