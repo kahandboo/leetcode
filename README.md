@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kahandboo/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kahandboo/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kahandboo/leetcode/tree/master/0344-reverse-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kahandboo/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kahandboo/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/kahandboo/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/kahandboo/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kahandboo/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
 | ------- |
