@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kahandboo/leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/kahandboo/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/kahandboo/leetcode/tree/master/0724-find-pivot-index) |
+| [0859-design-circular-deque](https://github.com/kahandboo/leetcode/tree/master/0859-design-circular-deque) |
 | [1603-running-sum-of-1d-array](https://github.com/kahandboo/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Bit Manipulation
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kahandboo/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/kahandboo/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0859-design-circular-deque](https://github.com/kahandboo/leetcode/tree/master/0859-design-circular-deque) |
 ## Stack
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kahandboo/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0859-design-circular-deque](https://github.com/kahandboo/leetcode/tree/master/0859-design-circular-deque) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -120,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kahandboo/leetcode/tree/master/0155-min-stack) |
+| [0859-design-circular-deque](https://github.com/kahandboo/leetcode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
