@@ -3,7 +3,7 @@ class Solution:
         my_dict = {}
 
         for key in s:
-            if key in my_dict.keys():
+            if key in my_dict:
                 my_dict[key] += 1
             else:
                 my_dict[key] = 1
