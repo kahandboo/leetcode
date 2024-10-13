@@ -1,11 +1,7 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        left = 0
-        right = len(numbers)-1
-        while(left < right):
-            if(numbers[left]+numbers[right] > target):
-                right -= 1
-            elif(numbers[left]+numbers[right] < target):
-                left += 1
-            else:
-                return list([left+1,right+1])
+        my_dict = {}
+        for i in range(len(numbers)):
+            if numbers[i] in my_dict.keys():
+                return list([my_dict[numbers[i]]+1,i+1])
+            my_dict[target - numbers[i]] = i
