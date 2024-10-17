@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kahandboo/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kahandboo/leetcode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kahandboo/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kahandboo/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kahandboo/leetcode/tree/master/0027-remove-element) |
 | [0086-partition-list](https://github.com/kahandboo/leetcode/tree/master/0086-partition-list) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kahandboo/leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kahandboo/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/kahandboo/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/kahandboo/leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/kahandboo/leetcode/tree/master/0141-linked-list-cycle) |
