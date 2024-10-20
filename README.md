@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kahandboo/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kahandboo/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/kahandboo/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/kahandboo/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/kahandboo/leetcode/tree/master/0724-find-pivot-index) |
 | [0859-design-circular-deque](https://github.com/kahandboo/leetcode/tree/master/0859-design-circular-deque) |
 | [1603-running-sum-of-1d-array](https://github.com/kahandboo/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/kahandboo/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/kahandboo/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/kahandboo/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/kahandboo/leetcode/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kahandboo/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kahandboo/leetcode/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/kahandboo/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
