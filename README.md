@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kahandboo/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/kahandboo/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kahandboo/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0496-next-greater-element-i](https://github.com/kahandboo/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kahandboo/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/kahandboo/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/kahandboo/leetcode/tree/master/0724-find-pivot-index) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kahandboo/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kahandboo/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/kahandboo/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/kahandboo/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kahandboo/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/kahandboo/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/kahandboo/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/kahandboo/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/kahandboo/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/kahandboo/leetcode/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kahandboo/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Queue
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/kahandboo/leetcode/tree/master/0682-baseball-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kahandboo/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
