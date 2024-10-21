@@ -1,13 +1,17 @@
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
-        left = 0
-        right = 0
-        if(len(nums) == 1 or 0 not in nums): pass
-        else:
-            while right<len(nums):
-                if(nums[right] != 0):
-                    nums[left], nums[right] = nums[right], nums[left]
-                    left += 1
-                right += 1
+        count = 0
+        i = len(nums) - 1
+        while i >= 0:
+            if nums[i] == 0:
+                del nums[i]
+                count += 1
+            i -= 1
+
+        while count > 0:
+            nums.append(0)
+            count -= 1
+
+    
 
         
