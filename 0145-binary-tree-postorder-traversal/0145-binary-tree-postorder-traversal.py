@@ -11,9 +11,6 @@ class Solution:
                 return
             
             
-            if not root.left and not root.right:
-                return result.append(root.val)
-            
             Traversal(root.left, result)
             Traversal(root.right, result)
             
