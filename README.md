@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kahandboo/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kahandboo/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/kahandboo/leetcode/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kahandboo/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/kahandboo/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/kahandboo/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kahandboo/leetcode/tree/master/0496-next-greater-element-i) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/kahandboo/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kahandboo/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kahandboo/leetcode/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kahandboo/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/kahandboo/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kahandboo/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kahandboo/leetcode/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kahandboo/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/kahandboo/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kahandboo/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/kahandboo/leetcode/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kahandboo/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
