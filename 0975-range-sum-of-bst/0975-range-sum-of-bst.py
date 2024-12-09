@@ -10,13 +10,7 @@ class Solution:
             return 0
         
 
-        if root.val == low:
-            return low + self.rangeSumBST(root.right, low, high)
-
-        if root.val == high:
-            return high + self.rangeSumBST(root.left, low, high)
-
-        if root.val < high and root.val > low:
+        if root.val <= high and root.val >= low:
             return self.rangeSumBST(root.right, low, high) + self.rangeSumBST(root.left, low, high) + root.val
         else:
             return self.rangeSumBST(root.right, low, high) + self.rangeSumBST(root.left, low, high)
