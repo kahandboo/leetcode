@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/kahandboo/leetcode/tree/master/0724-find-pivot-index) |
 | [0859-design-circular-deque](https://github.com/kahandboo/leetcode/tree/master/0859-design-circular-deque) |
 | [1603-running-sum-of-1d-array](https://github.com/kahandboo/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1706-min-cost-to-connect-all-points](https://github.com/kahandboo/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -336,11 +337,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/kahandboo/leetcode/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/kahandboo/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/kahandboo/leetcode/tree/master/0871-keys-and-rooms) |
+| [1706-min-cost-to-connect-all-points](https://github.com/kahandboo/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kahandboo/leetcode/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/kahandboo/leetcode/tree/master/0801-is-graph-bipartite) |
+| [1706-min-cost-to-connect-all-points](https://github.com/kahandboo/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Matrix
 |  |
 | ------- |
@@ -349,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kahandboo/leetcode/tree/master/0207-course-schedule) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/kahandboo/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
