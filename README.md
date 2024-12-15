@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kahandboo/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/kahandboo/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/kahandboo/leetcode/tree/master/0744-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/kahandboo/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/kahandboo/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kahandboo/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0744-network-delay-time](https://github.com/kahandboo/leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/kahandboo/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/kahandboo/leetcode/tree/master/0871-keys-and-rooms) |
 | [0975-range-sum-of-bst](https://github.com/kahandboo/leetcode/tree/master/0975-range-sum-of-bst) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kahandboo/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kahandboo/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/kahandboo/leetcode/tree/master/0226-invert-binary-tree) |
+| [0744-network-delay-time](https://github.com/kahandboo/leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/kahandboo/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/kahandboo/leetcode/tree/master/0871-keys-and-rooms) |
 ## Binary Tree
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kahandboo/leetcode/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/kahandboo/leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/kahandboo/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/kahandboo/leetcode/tree/master/0871-keys-and-rooms) |
 | [1706-min-cost-to-connect-all-points](https://github.com/kahandboo/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -356,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/kahandboo/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/kahandboo/leetcode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
